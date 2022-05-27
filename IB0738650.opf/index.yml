@@ -1,0 +1,19 @@
+id: fe010b3a9f734de5884533ac7a415eee
+annotation_type: index
+revision: '00001'
+annotations:
+  4662d6ec3b3743bd981f2c93e000fef1:
+    base: f1972.txt
+    span:
+      start: 0
+      end: 2285
+  e9fa6ffcf58f42b589855cc12fb8c7fe:
+    base: fA81C.txt
+    span:
+      start: 0
+      end: 13
+  197b53a92b304d18b8d8cc9e06ffeb5b:
+    base: fE0AB.txt
+    span:
+      start: 0
+      end: 14529
